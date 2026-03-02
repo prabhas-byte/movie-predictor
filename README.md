@@ -14,8 +14,9 @@ Built with Python, pandas, scikit-learn, XGBoost, matplotlib & seaborn.
 ### How to Run
 
 1. Clone or download this repository
-2. Place `IMDb Movies India.csv` in the same folder ![Titanic](download from Kaggle: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
-3. Install required packages:
+2. Place `IMDb Movies India.csv` in the same folder
+![Titanic](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
+4. Install required packages:
 
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost
